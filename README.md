@@ -1,0 +1,1 @@
+Examples how to create charts in JavaScript
