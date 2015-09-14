@@ -1,0 +1,19 @@
+{
+  "name": "chart-examples",
+  "version": "0.0.0",
+  "authors": [
+    "Rachid Ben Moussa"
+  ],
+  "description": "Examples how to create charts in JavaScript",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "c3": "~0.4.10"
+  }
+}
